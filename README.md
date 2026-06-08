@@ -18,6 +18,12 @@ Analysis of key global economic indicators during and after the COVID-19 pandemi
 - **Best conditions:** Qatar (1.53), Bahrain (1.77), Thailand (2.47)
 - **Fastest recovery:** Tourism-dependent economies (Macao, Maldives, Aruba)
 - **Most resilient:** Taiwan and China never contracted in 2020
+- 
+## Dashboard Note
+Map color scale capped at 50 to preserve visual differentiation 
+between countries. Zimbabwe (262.85), Sudan (188.62), and Lebanon 
+(138.91) exceed this threshold and are documented separately.
+
 
 ## Author
 Andrea Galicia
